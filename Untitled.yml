@@ -5,7 +5,7 @@ info:
 
 http:
   method: POST
-  url: https://api.712837.live/api/result
+  url: https://api.712837.live/api/result222
   auth: inherit
 
 settings:
